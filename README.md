@@ -1,9 +1,6 @@
 <h1>Ứng dụng MoodMusic - nghe nhạc theo cảm xúc</h1>
 
 Ứng dụng MoodMusic giúp mọi người nghe nhạc theo cảm xúc của mình 
-<div>
-<img src="./img/manhinhmenu.jpg" width=270px height=560px />
-</div>
 <h2>
 1. Chức năng</h2>
     <div><p>- Đăng nhập, đăng kí</p>
